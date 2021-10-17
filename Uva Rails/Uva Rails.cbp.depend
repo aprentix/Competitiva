@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1632911149 source:c:\users\jesus\desktop\code\uva rails\main.cpp
+	<iostream>
+	<fstream>
+	<stack>
+
